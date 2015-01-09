@@ -8,3 +8,8 @@ Features:
 - Checkout: Collects payment information (credit card number and expiry date), and validates input data.
 - Checks if credit card expired.
 - Displays a printable receipt and gives the option to email the reciept to account email address.
+
+Admin Controls:
+- Add, delete and edit products.
+- Display all finalized orders.
+- Delete all customer and order information.
