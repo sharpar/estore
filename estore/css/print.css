@@ -1,0 +1,10 @@
+div, button {
+	margin-left: 30px;	
+}
+div {
+	margin-top: 15px;
+}
+
+.nav li {
+	padding-right: 3px;
+}

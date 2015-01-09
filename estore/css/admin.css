@@ -1,0 +1,14 @@
+form {
+	width: 50%;
+	margin: 50px auto auto auto;
+}
+
+.error {
+	margin: 10px auto 10px auto;
+	color: #F00;
+	text-align: center;
+}
+
+nav{
+	text-align: center;
+}

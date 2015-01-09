@@ -1,0 +1,13 @@
+form {
+	width: 50%;
+	margin: 50px auto auto auto;
+}
+
+.error {
+	padding-top: 20px;
+	color: #F00;
+}
+
+li {
+	padding-right: 3px;
+}

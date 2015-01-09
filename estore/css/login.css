@@ -1,0 +1,17 @@
+form {
+	width: 50%;
+	margin: 50px auto auto auto;
+	clear: both;
+}
+
+.error {
+	width: 50%;
+	margin-left: 20px;
+	color: #F00;
+	clear: both;	
+}
+
+#registerOption{
+	width: 50%;
+	margin: 10px auto 10px auto;
+}
