@@ -19,6 +19,6 @@ Features:
 
 
 Admin Controls:
-- Add, delete and edit products.
+- Add, delete, and edit products.
 - Display all finalized orders.
 - Delete all customer and order information.
