@@ -1,4 +1,4 @@
-By Haris Shoaib, Shivain Thappar
+By Haris Shoaib, Shivain Thapar
 
 # estore
 - Electronic store that can be used to sell anything. Used for baseball cards in our sample. 
