@@ -1,6 +1,6 @@
 By Haris Shoaib, Shivain Thapar
 
-# estore
+# Baseball Cards E-store
 - Electronic store that can be used to sell anything. Used for baseball cards in our sample. 
 - Created using PHP and JavaScript in the Codeigniter framework.
 
